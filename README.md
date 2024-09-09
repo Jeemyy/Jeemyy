@@ -16,7 +16,7 @@
     
 <a href="https://www.facebook.com/ahmedgmal.gmal.319?locale=ar_AR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed gamal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/a7med_gemyyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a7med_gemyyy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jemy-undefined-86128a279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jemy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-gamal-86128a279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jemy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCoOkBCAbXvNheEamRUwIVdw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jemy" height="30" width="40" /></a>
 
 </p>
