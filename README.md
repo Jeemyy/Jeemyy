@@ -90,14 +90,5 @@ I design and develop RESTful APIs, authentication systems, and admin dashboards 
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeemyy&layout=compact)
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeemyy&theme=dark" />
-</p>
-
----
-
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=Jeemyy&style=for-the-badge">
